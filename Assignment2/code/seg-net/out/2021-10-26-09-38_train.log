@@ -1,0 +1,7 @@
+2021-10-26 09:38:26,713 Namespace(eval_interval=1, frequent=10, gpus='', num_workers=4, out_dir='out')
+2021-10-26 09:38:26,718 => load 200 samples
+2021-10-26 09:38:26,719 => load 200 samples
+2021-10-26 09:38:50,576 Namespace(eval_interval=1, frequent=10, gpus='', num_workers=4, out_dir='out')
+2021-10-26 09:38:50,581 => load 200 samples
+2021-10-26 09:38:50,582 => load 200 samples
+2021-10-26 09:38:51,048 Epoch: [0][0/200]	Time 0.466s (0.466s)	Speed 68.6 samples/s	Data 0.038s (0.038s)	Loss 2.40597 (2.40597)
