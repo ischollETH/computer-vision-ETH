@@ -16,7 +16,12 @@ Both a linear classifier and a multi-layer perceptron (MLP) classifier were impl
 
 For this part, a MLP using 1 hidden layer as well as a conovolution neural network (CNN) were used to classify digits from the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset:
 <p align="center">
-  <img src=https://github.com/ischollETH/computer-vision-ETH/blob/main/Assignment1/images/DigitClassifier.png width="350" title="clustered data">
+  <img src=https://github.com/ischollETH/computer-vision-ETH/blob/main/Assignment1/images/DigitClassifier.png width="350" title="MNIST digits">
 </p>
 While needing less parameters, the CNN achieved better accuracies (over 98%) than the MLP. This shows the advantage of CNN for certain types of tasks.
-Finally, a so-called confusion matrix for both the MLP (left) and the CNN (right) has been produced, showing the performance of a classifier: M<sub>i,j</sub> is the number of test samples for which the network predicted _i_, but the ground-truth label was *j*
+Finally, a so-called confusion matrix for both the MLP (left) and the CNN (right) has been produced, showing the performance of a classifier; M<sub>i,j</sub> is the number of test samples for which the network predicted <em>i</em>, but the ground-truth label was <em>j</em>
+
+<p align="center">
+  <img src=https://github.com/ischollETH/computer-vision-ETH/blob/main/Assignment1/images/ConfusionMatrix_MLP.png width="350" title="MLP confusion matrix">
+  <img src=https://github.com/ischollETH/computer-vision-ETH/blob/main/Assignment1/images/ConfusionMatrix_Conv.png width="350" title="CNN confusion matrix">
+</p>
