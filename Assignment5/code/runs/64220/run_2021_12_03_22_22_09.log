@@ -1,0 +1,5 @@
+2021-12-03 22:22:09,776 INFO Let the games begin
+2021-12-03 22:22:38,785 INFO [Step 99/ Epoch 0]  Loss: 2.0210  
+2021-12-03 22:22:42,143 INFO val acc:29.14
+2021-12-03 22:22:42,152 INFO [*] best model saved
+
