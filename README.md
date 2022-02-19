@@ -128,7 +128,7 @@ A simplified version of the [VGG image classification network](https://arxiv.org
 </p>
 
 
-## Assignment 5: Tracking
+## Assignment 6: Tracking
 
 ### CONDENSATION tracker
 
