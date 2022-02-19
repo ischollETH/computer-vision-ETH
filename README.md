@@ -1,5 +1,5 @@
 # computer-vision-ETH
-Python assignments for the class 'Computer Vision' (Prof. Pollefeys) @ ETH Zurich
+Python assignments for the class 'Computer Vision' (Prof. Pollefeys) @ ETH Zurich. Each of the assignments has been graded with the full grade of 100 points.
 
 ## Assignment 1: Classifiers using PyTorch
 ### Simple 2D Classifier
